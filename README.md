@@ -28,7 +28,7 @@ CSE Undergraduate | Aspiring Software Engineer | Researcher | Content Manager
 
 <td width="40%" align="center" valign="middle">
 
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmg2NzBuM3JzcXFhM2FqeDd4NGJzb3AwZWh2OWRtMzZ6MmlmYTVjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwcjQ3N2gzaHk3NjJmd2Y5bjF5OGw0dzgwdGF2eGx6cjk2cmI5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 </td>
 
